@@ -1,6 +1,4 @@
 Noah Weitzel
 
 Program Note:
-I included a case in which a dirty spot is completey surrounded by obstacles even though it was not specified in the specs document. 
-It prints to stdout "No path found". I also added some error checking that allows the user to see what they need to input into the
-command line arguments and well as other error/exception checks.
+I included a case in which a dirty spot is completey surrounded by obstacles even though it was not specified in the specs document. It prints to stdout "No path found". I also added some error checking that allows the user to see what they need to input into the command line arguments and well as other error/exception checks.
